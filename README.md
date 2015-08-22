@@ -18,7 +18,7 @@ There are four files:
 
 * "run_analysis.R" contains all the code to perform the analyses described in the 5 steps. It has to be run in the R package.
 
-* "averages_and_std_data.txt" contains the output of the 5th step present in the code.
+* "averages_data.txt" contains the output of the 5th step present in the code.
 
 ## Instructions
 
