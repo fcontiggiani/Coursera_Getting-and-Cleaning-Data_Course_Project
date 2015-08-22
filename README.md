@@ -12,13 +12,13 @@ The code was written taking account that you have internet connection and it dow
 
 There are four files:
 
-* Readme.md
+* "Readme.md"
 
-* CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
+* "CodeBook.md" describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
-* run_analysis.R contains all the code to perform the analyses described in the 5 steps. It has to be run in the R package.
+* "run_analysis.R" contains all the code to perform the analyses described in the 5 steps. It has to be run in the R package.
 
-* averages_data.txt contains the output of the 5th step present in the code.
+* "averages_and_std_data.txt" contains the output of the 5th step present in the code.
 
 ## Instructions
 
